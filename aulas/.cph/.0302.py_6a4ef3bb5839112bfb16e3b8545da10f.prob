@@ -1,0 +1,1 @@
+{"name":"Local: 0302","url":"/home/clara/Documentos/unb-codigos/competitiva-pratica/aulas/0302.py","tests":[{"id":1628886873224,"input":"4 4\n##.#\n....\n##.#\n.#.#","output":"a#, b#, ab, ##"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/clara/Documentos/unb-codigos/competitiva-pratica/aulas/0302.py","group":"local","local":true}

@@ -2,13 +2,20 @@
 using namespace std;
 
 int main() {
-  int r;
-  cin >> r;
-  if (r < 1200) {
-    cout << "ABC" << endl;
-  } else if (r < 2800 ) {
-    cout << "ARC" << endl;
-  } else {
-    cout << "AGC" << endl;
+  int n, i, i2;
+  int count = 0;
+  vector<int> p1, p2;
+  cin >> n;
+  while(cin>>i){
+    p1.push_back(i);
   }
+  while(cin>>i2){
+    p2.push_back(i2);
+  }
+
+  while(count<p1.size()){
+    cout << p1[count];
+    count++;
+  }
+  
 }
